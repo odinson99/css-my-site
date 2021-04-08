@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Caveat', cursive;
+  font-size: 200%;
+}
+
+h1 {
+  color: #51c2d5;
+  margin: 50px auto 0 auto;
+  font-family: 'Indie Flower', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  color: #51c2d5;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #51c2d5;
+  font-family: 'Indie Flower', cursive;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #6e7c7c;
+  border-width: 8px;
+  width: 80%;
+}
+a{
+  color:#51c2d5;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #81b214;
+}
+.top-container {
+  background-color: #d3e0ea;
+  position: relative;
+  padding-top: 10px;
+}
+
+.middle-container {
+  background-color: white;
+  padding-bottom: 20px;
+}
+
+.bottom-container {
+  background-color: #d3e0ea;
+  padding-top: 20px ;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.top-petals {
+  position: absolute;
+  top: 350px;
+  right: 300px;
+  top: 200px;
+}
+
+.middle-petals {
+  position: absolute;
+  right: 35px;
+  top: 350px;
+}
+
+.bottom-petals {
+  position: absolute;
+  top: 450px;
+  left: 315px;
+}
+
+.pink-moon {
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  left: 300px;
+  top: 150px;
+}
+
+.circle-cropped {
+  padding-top: 10px;
+  height: 200px;
+  width: 200px;
+}
+
+.me {
+  padding-top: 10px;
+}
+
+.developer {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Militarymind {
+  width: 35%;
+  float: right;
+  margin-left: 20px
+}
+
+.satellite {
+  padding-top: 10px;
+}
+
+.footer-link1 {
+
+}
+
+.footer-link2 {
+
+}
+
+.button {
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   color: #00E2FF;
+   font-family: Tahoma;
+   font-size: 26px;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #000000;
+   border: solid #00E2FF 7px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+
+}
+
+.button:hover {
+   background: #000000;
+   border: solid #00E2FF 5px;
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   text-decoration: none;
+}
